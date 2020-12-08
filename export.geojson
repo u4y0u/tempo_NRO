@@ -1,0 +1,809 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2020-12-08T17:45:03Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/89245784",
+        "building": "service",
+        "operator": "SFR",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              0.8262533,
+              47.3501545
+            ],
+            [
+              0.8263278,
+              47.3502356
+            ],
+            [
+              0.8259853,
+              47.3503809
+            ],
+            [
+              0.8259108,
+              47.3502995
+            ],
+            [
+              0.8262533,
+              47.3501545
+            ]
+          ]
+        ]
+      },
+      "id": "way/89245784"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/118705611",
+        "building": "service",
+        "operator": "SFR",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              1.328918,
+              47.615635
+            ],
+            [
+              1.32896,
+              47.615359
+            ],
+            [
+              1.329102,
+              47.61537
+            ],
+            [
+              1.329059,
+              47.615645
+            ],
+            [
+              1.328918,
+              47.615635
+            ]
+          ]
+        ]
+      },
+      "id": "way/118705611"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/118734741",
+        "building": "service",
+        "name": "EU141",
+        "operator": "Orange",
+        "owner": "Orange",
+        "ref:FR:PTT": "EU141",
+        "ref:FR:PTT:NRA": "41018EU1",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011",
+        "survey:date": "2019-10-30",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "wall": "no"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              1.303294,
+              47.588774
+            ],
+            [
+              1.303292,
+              47.588729
+            ],
+            [
+              1.303324,
+              47.588729
+            ],
+            [
+              1.303328,
+              47.588773
+            ],
+            [
+              1.303294,
+              47.588774
+            ]
+          ]
+        ]
+      },
+      "id": "way/118734741"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/152755956",
+        "building": "service",
+        "operator": "SFR",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2012",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              1.877558,
+              48.074249
+            ],
+            [
+              1.8777,
+              48.07424
+            ],
+            [
+              1.877738,
+              48.074513
+            ],
+            [
+              1.877596,
+              48.074522
+            ],
+            [
+              1.877558,
+              48.074249
+            ]
+          ]
+        ]
+      },
+      "id": "way/152755956"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/152756199",
+        "building": "service",
+        "operator": "Zayo",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2012",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              1.877987,
+              48.074318
+            ],
+            [
+              1.878022,
+              48.074316
+            ],
+            [
+              1.878037,
+              48.074425
+            ],
+            [
+              1.878003,
+              48.074427
+            ],
+            [
+              1.877987,
+              48.074318
+            ]
+          ]
+        ]
+      },
+      "id": "way/152756199"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/172372443",
+        "building": "service",
+        "operator": "Interoute",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2012",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              1.126229,
+              47.615988
+            ],
+            [
+              1.126336,
+              47.616048
+            ],
+            [
+              1.126286,
+              47.616089
+            ],
+            [
+              1.126182,
+              47.616032
+            ],
+            [
+              1.126229,
+              47.615988
+            ]
+          ]
+        ]
+      },
+      "id": "way/172372443"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/352576922",
+        "building": "service",
+        "operator": "SFR",
+        "source": "cadastre-dgi-fr source : Direction Générale des Finances Publiques - Cadastre. Mise à jour : 2015",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              2.8340852,
+              47.585536
+            ],
+            [
+              2.8340732,
+              47.585269
+            ],
+            [
+              2.8342142,
+              47.585266
+            ],
+            [
+              2.8342262,
+              47.585533
+            ],
+            [
+              2.8340852,
+              47.585536
+            ]
+          ]
+        ]
+      },
+      "id": "way/352576922"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/352577772",
+        "building": "service",
+        "operator": "Zayo",
+        "source": "cadastre-dgi-fr source : Direction Générale des Finances Publiques - Cadastre. Mise à jour : 2015",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              2.8338958,
+              47.5857305
+            ],
+            [
+              2.8338868,
+              47.5857085
+            ],
+            [
+              2.8340438,
+              47.5856785
+            ],
+            [
+              2.8340528,
+              47.5857015
+            ],
+            [
+              2.8338958,
+              47.5857305
+            ]
+          ]
+        ]
+      },
+      "id": "way/352577772"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/395258920",
+        "building": "service",
+        "operator": "SFR",
+        "source": "cadastre-dgi-fr source : Direction Générale des Finances Publiques - Cadastre. Mise à jour : 2016",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              3.0295844,
+              47.0421569
+            ],
+            [
+              3.0298725,
+              47.0423536
+            ],
+            [
+              3.0297679,
+              47.0424248
+            ],
+            [
+              3.0294798,
+              47.0422281
+            ],
+            [
+              3.0295844,
+              47.0421569
+            ]
+          ]
+        ]
+      },
+      "id": "way/395258920"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/672700571",
+        "building": "service",
+        "operator": "Val de Loire Fibre",
+        "source": "https://twitter.com/Lourine45/status/1099240936591233024",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              2.0530867,
+              47.4186608
+            ],
+            [
+              2.0530889,
+              47.4185938
+            ],
+            [
+              2.0531372,
+              47.4185945
+            ],
+            [
+              2.053135,
+              47.4186615
+            ],
+            [
+              2.0530867,
+              47.4186608
+            ]
+          ]
+        ]
+      },
+      "id": "way/672700571"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/676139579",
+        "building": "service",
+        "operator": "Val-de-Loire FIbre",
+        "source": "https://twitter.com/valdeloirefibre/status/1098877881730695168",
+        "start_date": "2019-02-22",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              0.1854238,
+              47.212779
+            ],
+            [
+              0.1854587,
+              47.212758
+            ],
+            [
+              0.1855219,
+              47.2128066
+            ],
+            [
+              0.185487,
+              47.2128275
+            ],
+            [
+              0.1854238,
+              47.212779
+            ]
+          ]
+        ]
+      },
+      "id": "way/676139579"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/683763689",
+        "building": "service",
+        "building:prefabricated": "yes",
+        "operator": "TDF",
+        "owner": "Val de Loire Fibre",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              0.9088681,
+              47.2220711
+            ],
+            [
+              0.9088398,
+              47.222034
+            ],
+            [
+              0.9089554,
+              47.2219932
+            ],
+            [
+              0.9089838,
+              47.2220304
+            ],
+            [
+              0.9088681,
+              47.2220711
+            ]
+          ]
+        ]
+      },
+      "id": "way/683763689"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/725465601",
+        "addr:city": "Hommes",
+        "addr:postcode": "37340",
+        "addr:street": "Avenue du Vieux Château",
+        "building": "service",
+        "building:material": "metal",
+        "building:prefabricated": "yes",
+        "description": "Shelter recouvert bois.",
+        "note": "dessert 2633 foyers.",
+        "operator": "TDF",
+        "source": "https://twitter.com/valdeloirefibre/status/1173992184657391616",
+        "start_date": "2019-09-17",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              0.2907377,
+              47.4270438
+            ],
+            [
+              0.2906297,
+              47.4270561
+            ],
+            [
+              0.2906213,
+              47.4270225
+            ],
+            [
+              0.2907293,
+              47.4270101
+            ],
+            [
+              0.2907377,
+              47.4270438
+            ]
+          ]
+        ]
+      },
+      "id": "way/725465601"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/728281026",
+        "addr:city": "Saint Laurent Nouan",
+        "addr:housenumber": "14",
+        "addr:postcode": "41220",
+        "addr:street": "Rue du Petit Four",
+        "building": "service",
+        "colour": "darkgreen",
+        "operator": "Val de Loire Fibre (TDF)",
+        "owner": "SMO Val de Loire Numérique",
+        "start_date": "2019",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              1.6086169,
+              47.7117708
+            ],
+            [
+              1.6085954,
+              47.7118051
+            ],
+            [
+              1.6084881,
+              47.7117672
+            ],
+            [
+              1.6085122,
+              47.7117347
+            ],
+            [
+              1.6086169,
+              47.7117708
+            ]
+          ]
+        ]
+      },
+      "id": "way/728281026"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/774862629",
+        "building": "service",
+        "building:prefabricated": "yes",
+        "operator": "Val de Loire Fibre",
+        "owner": "Val de Loire Fibre",
+        "ref": "MUR DE SOLOGNE",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              1.5967528,
+              47.4174902
+            ],
+            [
+              1.5967138,
+              47.4174638
+            ],
+            [
+              1.5967496,
+              47.4174352
+            ],
+            [
+              1.5967984,
+              47.4174638
+            ],
+            [
+              1.5967528,
+              47.4174902
+            ]
+          ]
+        ]
+      },
+      "id": "way/774862629"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/842883833",
+        "building": "service",
+        "operator": "Interoute",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              0.6796481,
+              47.1544969
+            ],
+            [
+              0.6796259,
+              47.1544757
+            ],
+            [
+              0.6796938,
+              47.1544399
+            ],
+            [
+              0.6797173,
+              47.154463
+            ],
+            [
+              0.6796481,
+              47.1544969
+            ]
+          ]
+        ]
+      },
+      "id": "way/842883833"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/842886776",
+        "building": "service",
+        "operator": "Interoute",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              1.8395986,
+              47.9684923
+            ],
+            [
+              1.8396223,
+              47.968437
+            ],
+            [
+              1.8396574,
+              47.968444
+            ],
+            [
+              1.8396337,
+              47.9684993
+            ],
+            [
+              1.8395986,
+              47.9684923
+            ]
+          ]
+        ]
+      },
+      "id": "way/842886776"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/846787785",
+        "building": "yes",
+        "operator": "Zayo",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              0.8262514,
+              47.3505078
+            ],
+            [
+              0.8262345,
+              47.3504896
+            ],
+            [
+              0.8263788,
+              47.3504323
+            ],
+            [
+              0.8263949,
+              47.3504522
+            ],
+            [
+              0.8262514,
+              47.3505078
+            ]
+          ]
+        ]
+      },
+      "id": "way/846787785"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/847187554",
+        "building": "yes",
+        "operator": "Zayo",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              3.0297923,
+              47.0421643
+            ],
+            [
+              3.0299058,
+              47.0420889
+            ],
+            [
+              3.0299299,
+              47.0421058
+            ],
+            [
+              3.0298163,
+              47.0421811
+            ],
+            [
+              3.0297923,
+              47.0421643
+            ]
+          ]
+        ]
+      },
+      "id": "way/847187554"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/848051769",
+        "building": "service",
+        "operator": "Zayo",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              1.328732,
+              47.6155477
+            ],
+            [
+              1.3287579,
+              47.6154396
+            ],
+            [
+              1.328791,
+              47.6154432
+            ],
+            [
+              1.3287652,
+              47.6155513
+            ],
+            [
+              1.328732,
+              47.6155477
+            ]
+          ]
+        ]
+      },
+      "id": "way/848051769"
+    }
+  ]
+}
